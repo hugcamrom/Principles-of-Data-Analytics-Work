@@ -8,3 +8,8 @@ ATU
  I study at [ATU](https://www.atu.ie/)
 
 ![penguins](https://allisonhorst.github.io/palmerpenguins/logo.png) 
+
+
+```bash
+$ python script.py
+```
