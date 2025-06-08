@@ -1,8 +1,8 @@
 # Principles-of-Data-Analytics-Work
 
-Principles of Data Analytics. Lecture by Ian McLoughlin at [ATU](https://www.atu.ie/)
+Lecture by Ian McLoughlin at [ATU](https://www.atu.ie/)
 
-![penguins](https://allisonhorst.github.io/palmerpenguins/logo.png) 
+![penguins](https://allisonhorst.github.io/palmerpenguins/logo.png)
 
 ```bash
 python script.py
@@ -19,7 +19,7 @@ python script.py
 This project explores the **Palmer Archipelago penguin dataset** using Python. It applies data analysis principles taught in the "Principles of Data Analytics" module by Professor Ian McLoughlin at ATU. The analogy of "learning to drive" was used throughout the course to help students understand the progression from beginner to independent coder.
 
 > _“We're hopping into the car and we're wrecking the clutch.”_  
-> — Professor McLoughlin, t01v04, Jan 22, 2024
+> — Professor McLoughlin, t01v04, Jan 22, 2024 -
 
 ## Objectives
 
