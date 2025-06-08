@@ -19,7 +19,7 @@ python script.py
 This project explores the **Palmer Archipelago penguin dataset** using Python. It applies data analysis principles taught in the "Principles of Data Analytics" module by Professor Ian McLoughlin at ATU. The analogy of "learning to drive" was used throughout the course to help students understand the progression from beginner to independent coder.
 
 > _“We're hopping into the car and we're wrecking the clutch.”_  
-> — Professor McLoughlin, t01v04, Jan 22, 2024 -
+> — Professor McLoughlin, t01v04, Jan 22, 2024 —
 
 ## Objectives
 
@@ -60,17 +60,23 @@ To run the notebook:
 
 1. Install Python 3.x  
 2. Create a virtual environment (optional but recommended):
-   ```bash
+
+```bash
+
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
-3. Install the required libraries:
-   ```bash
+
+3.Install the required libraries:
+
+```bash
+
    pip install pandas matplotlib numpy
    ```
 
-4. Launch Jupyter Notebook:
-   ```bash
+4.Launch Jupyter Notebook:
+
+ ```bash
    jupyter notebook
    ```
 
